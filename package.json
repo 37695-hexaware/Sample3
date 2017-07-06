@@ -10,17 +10,10 @@
   "scripts": {
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alexa/skill-sample-nodejs-hello-world.git"
-  },
+
   "keywords": [
     "test"
   ],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alexa/skill-sample-nodejs-hello-world/issues"
-  },
-  "homepage": "https://github.com/alexa/skill-sample-nodejs-hello-world#readme"
-}
+  }
