@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alexa/skill-sample-nodejs-hello-world.git"
-  },
   "keywords": [
     "helloworld",
     "alexa",
